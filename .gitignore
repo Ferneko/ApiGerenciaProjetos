@@ -3,3 +3,8 @@
 ################################################################################
 
 /.vs/ApiGerenciaProjetos/v16
+/.vs
+/Api/.vs/Api/v16
+/Api/Api/obj
+/Api/Api/bin/Debug/netcoreapp3.1
+/Api/.vs/Api/config
